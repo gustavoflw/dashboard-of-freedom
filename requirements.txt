@@ -1,4 +1,5 @@
-python-dotenv
+pandas
 requests
-BeautifulSoup4
 matplotlib
+python-dotenv
+BeautifulSoup4
