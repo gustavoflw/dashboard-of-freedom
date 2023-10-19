@@ -1,0 +1,4 @@
+python-dotenv
+requests
+BeautifulSoup4
+matplotlib
