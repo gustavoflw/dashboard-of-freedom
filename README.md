@@ -1,10 +1,9 @@
 # dashboard-of-freedom
-Visualização de dados sobre o filme Som da Liberdade
+Data visualization regarding the movie Sound of Freedom. This was a quick project for demonstration purporses.
 
-## Funcionamento
-1. Por meio de interação com uma API REST de uma base de dados cinematográficos aberta, compila informações básicas acerca do filme (título, gênero, etc.)
-2. Por meio de um scraper do site BoxOfficeMojo, compila informações de bilheteria de diversos países
-3. Organiza as informações de forma visual em um dashboard, conforme abaixo:
+## How it works
+1. By interacting to a database through an open REST API, gets basic information about the movie (title, genre, etc)
+2. Gets worldwide box office information from the website BoxOfficeMojo
+3. Finally, organized the information in a Looker Studio dashboard:
 
 ![alt text](https://github.com/gustavoflw/dashboard-of-freedom/blob/main/dashboard1.png?raw=true)
-![alt text](https://github.com/gustavoflw/dashboard-of-freedom/blob/main/dashboard2.png?raw=true)
